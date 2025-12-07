@@ -19,7 +19,6 @@ float numerator_f = ( g * g) - (g * g); // має бути 0
     
     cout << "float result: " << result_f << endl;
     cout << "double result: " << result_d << endl;
-
     return 0;
 
 

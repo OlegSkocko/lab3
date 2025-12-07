@@ -13,7 +13,6 @@ int main() {
     int res2 = ++b * a--; 
     cout << "2. ++b * a-- = " << res2 << endl;
 
-
     bool res3 = a < ++b;  
     cout << "3. a < ++b = " << res3 << endl;
 
